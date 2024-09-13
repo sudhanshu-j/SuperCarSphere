@@ -93,6 +93,7 @@ SuperCarSphere/
 
        │
        ├── index.html                # Main entry point of the webpage
+       ├── assets/
        ├── css/
        │   ├── styles.css                       # Main CSS file for styling the webpage
        |   ├──  swiper-bundle.min.css           # Main CSS file for styling the swiper class
