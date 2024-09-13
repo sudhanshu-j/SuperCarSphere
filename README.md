@@ -99,13 +99,13 @@ SuperCarSphere/
        |   ├──  swiper-bundle.min.css           # Main CSS file for styling the swiper class
        │
        ├── js/
-       │   ├── script.js             # JavaScript for webpage functionality
+       │   ├── main.js               # JavaScript for webpage functionality
        │   ├── swiper.min.js         # SwiperJS library for sliders
        │   ├── gsap.min.js           # GSAP animation library
        │
        ├── images/
-       │   ├── car1.jpg              # Images of the supercars
-       │   ├── car2.jpg              # ...
+       │   ├── car-1.png              # Images of the supercars
+       │   ├── car-2.png              # ...
        │
        └── README.md  
 
