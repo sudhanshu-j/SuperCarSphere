@@ -17,7 +17,7 @@ Table of Contents
 
 1. Project Overview
 
-       SuperCarSphere is an engaging and sleek website that presents a curated selection of supercars. The 
+       SuperCarSphere is an engaging and sleek webpage that presents a curated selection of supercars. The 
        site emphasizes performance and style, using interactive animations and modern design elements to 
        offer a dynamic and captivating browsing experience. It is built using HTML for structure, CSS for 
        styling, and JavaScript for dynamic interactions, while libraries like SwiperJS and GSAP enhance its 
@@ -39,7 +39,7 @@ Table of Contents
 
 3. Technologies Used
 
-       • HTML5: Structure of the website.
+       • HTML5: Structure of the webpage.
    
        • CSS3: Styling and layout of the web pages.
    
@@ -70,7 +70,7 @@ Follow the steps below to set up SuperCarSphere on your local machine:
 
        2.  Open the Project
    
-          Open the index.html file in your browser to see the website in action.
+          Open the index.html file in your browser to see the webpage in action.
 
        3. (Optional) Local Development Environment
 
@@ -83,7 +83,7 @@ Follow the steps below to set up SuperCarSphere on your local machine:
 
 5. Usage
 
-       The website allows users to explore different supercars through a dynamic and visually appealing 
+       The webpage allows users to explore different supercars through a dynamic and visually appealing 
        interface. Users can swipe through cars, view detailed information, and enjoy smooth animations and 
        transitions as they browse.
 
@@ -92,13 +92,13 @@ Follow the steps below to set up SuperCarSphere on your local machine:
 SuperCarSphere/
 
        │
-       ├── index.html                # Main entry point of the website
+       ├── index.html                # Main entry point of the webpage
        ├── css/
-       │   ├── styles.css                       # Main CSS file for styling the website
+       │   ├── styles.css                       # Main CSS file for styling the webpage
        |   ├──  swiper-bundle.min.css           # Main CSS file for styling the swiper class
        │
        ├── js/
-       │   ├── script.js             # JavaScript for website functionality
+       │   ├── script.js             # JavaScript for webpage functionality
        │   ├── swiper.min.js         # SwiperJS library for sliders
        │   ├── gsap.min.js           # GSAP animation library
        │
