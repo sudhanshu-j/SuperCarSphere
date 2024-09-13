@@ -89,8 +89,7 @@ Follow the steps below to set up SuperCarSphere on your local machine:
 
 6. Project Structure
 
-SuperCarSphere/
-
+       SuperCarSphere/
        │
        ├── index.html                # Main entry point of the webpage
        ├── assets/
