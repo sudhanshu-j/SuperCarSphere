@@ -50,26 +50,38 @@ SuperCarSphere is an engaging and sleek webpage that presents a curated selectio
   
 - **GSAP**: For animating elements with smooth transitions, scroll-based triggers, and advanced
 
-4. Installation and Setup
-Follow the steps below to set up SuperCarSphere on your local machine:
+## Installation and Setup
 
-       1. Clone the Repository
+- Follow the steps below to set up SuperCarSphere on your local machine:
 
-           git clone https://github.com/your-username/SuperCarSphere.git
-           cd SuperCarSphere
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/your-username/SuperCarSphere.git
+   ```
 
-       2.  Open the Project
+   ```bash           
+   cd SuperCarSphere
+   ```
+
+2. **Open the Project:**
    
-          Open the index.html file in your browser to see the webpage in action.
+- Open the index.html file in your browser to see the webpage in action.
 
-       3. (Optional) Local Development Environment
+3. **(Optional) Local Development Environment:**
 
-           To set up a local development environment, you can use a simple HTTP server (like VSCode’s live 
-            server extension, Python's HTTP server, or Node.js).
-              Using Python HTTP Server:
-                 python -m http.server
+   - To set up a local development environment, you can use a simple HTTP server (like VSCode’s live 
+            
+   - server extension, Python's HTTP server, or Node.js).
+              
+   - Using Python HTTP Server:
 
-                     Then visit http://localhost:8000 in your browser.
+   ```bash                 
+   python -m http.server
+   ```
+
+   ```bash
+   Then visit http://localhost:8000 in your browser.
+   ```
 
 ## Usage
 
