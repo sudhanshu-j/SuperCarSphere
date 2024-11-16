@@ -1,64 +1,54 @@
 # SuperCarSphere
 
-Table of Contents
+## Table of Contents
 
-    1. Project Overview
+1. [Project Overview](#project-overview)
 
-    2. Features
+2. [Features](#features)
 
-    3. Technologies Used
+3. [Technologies Used](#technologies-used)
 
-    4. Installation and Setup
+4. [Installation and Setup](#installation-and-setup)
 
-    5. Usage
+5. [Usage](#usage)
 
-    6. Project Structure
-    
+6. [Project Structure](#project-structure)
 
-1. Project Overview
+## Project Overview
 
-       SuperCarSphere is an engaging and sleek webpage that presents a curated selection of supercars. The 
-       site emphasizes performance and style, using interactive animations and modern design elements to 
-       offer a dynamic and captivating browsing experience. It is built using HTML for structure, CSS for 
-       styling, and JavaScript for dynamic interactions, while libraries like SwiperJS and GSAP enhance its 
-       functionality and visual appeal.
+SuperCarSphere is an engaging and sleek webpage that presents a curated selection of supercars. The site emphasizes performance and style, using interactive animations and modern design elements to offer a dynamic and captivating browsing experience. It is built using HTML for structure, CSS for styling, and JavaScript for dynamic interactions, while libraries like SwiperJS and GSAP enhance its functionality and visual appeal.
 
-2. Features
+## Features
 
-       • Responsive Design: Optimized for multiple screen sizes and devices, providing a consistent 
-       experience on desktops, tablets, and smartphones.
+- **Responsive Design**: Optimized for multiple screen sizes and devices, providing a consistent experience on desktops, tablets, and smartphones.
+  
+- **Sleek Animations**: Smooth, interactive animations powered by GSAP (GreenSock Animation Platform).
+  
+- **Interactive Car Slider**: Integrated with SwiperJS to offer a touch-friendly, responsive car gallery slider with swipe functionality.
+  
+- **Engaging Car Profiles**: Each supercar is displayed with its image, detailed specifications, and key features.
 
-       • Sleek Animations: Smooth, interactive animations powered by GSAP (GreenSock Animation Platform).
+## Technologies Used
 
-       • Interactive Car Slider: Integrated with SwiperJS to offer a touch-friendly, responsive car gallery 
-       slider with swipe functionality.
+- **HTML5**: Structure of the webpage.
+  
+- **CSS3**: Styling and layout of the web pages.
 
-       • Engaging Car Profiles: Each supercar is displayed with its image, detailed specifications, and key 
-       features.
+  - Flexbox and Grid for responsive design.
 
+  - Custom animations and hover effects.
+  
+- **JavaScript**: Dynamic functionality and DOM manipulation.
+  
+- **SwiperJS**: Responsive slider functionality for showcasing supercars.
+  
+- **GSAP (GreenSock Animation Platform)**: Smooth and highly performant animations.
 
-3. Technologies Used
+### External Libraries and Frameworks
 
-       • HTML5: Structure of the webpage.
-   
-       • CSS3: Styling and layout of the web pages.
-   
-          • Flexbox and Grid for responsive design.
-   
-          • Custom animations and hover effects.
-   
-       • JavaScript: Dynamic functionality and DOM manipulation.
-   
-       • SwiperJS: Responsive slider functionality for showcasing supercars.
-   
-       • GSAP (GreenSock Animation Platform): Smooth and highly performant animations.
-       
-3.1 External Libraries and Frameworks:
-
-       • SwiperJS: For creating touch sliders with a rich array of features.
-       
-       • GSAP: For animating elements with smooth transitions, scroll-based triggers, and advanced timeline 
-       controls.
+- **SwiperJS**: For creating touch sliders with a rich array of features.
+  
+- **GSAP**: For animating elements with smooth transitions, scroll-based triggers, and advanced
 
 4. Installation and Setup
 Follow the steps below to set up SuperCarSphere on your local machine:
@@ -81,14 +71,13 @@ Follow the steps below to set up SuperCarSphere on your local machine:
 
                      Then visit http://localhost:8000 in your browser.
 
-5. Usage
+## Usage
 
-       The webpage allows users to explore different supercars through a dynamic and visually appealing 
-       interface. Users can swipe through cars, view detailed information, and enjoy smooth animations and 
-       transitions as they browse.
+The webpage allows users to explore different supercars through a dynamic and visually appealing interface. Users can swipe through cars, view detailed information, and enjoy smooth animations and transitions as they browse.
 
-6. Project Structure
+## Project Structure
 
+   ```bash
        SuperCarSphere/
        │
        ├── index.html                # Main entry point of the webpage
@@ -107,5 +96,6 @@ Follow the steps below to set up SuperCarSphere on your local machine:
        │   ├── car-2.png              # ...
        │
        └── README.md  
+   ```
 
 Thank you for checking out SuperCarSphere! If you have any questions or suggestions, feel free to reach out.
